@@ -1,3 +1,5 @@
+# Informacion importante que he visto en el bootcamp
+
 lista=[1,2,3,'a']
 longitud=len(lista)
 print("Ciclos for")

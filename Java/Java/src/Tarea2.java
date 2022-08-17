@@ -24,7 +24,7 @@ public class Tarea2 {
         for (;numeroFor <= 3;numeroFor++){
             System.out.println("valor de numeroFor es " + numeroFor);
         }
-        var estacion = "Invierno";
+        String estacion = "Invierno";
         switch (estacion) {
             case "Primavera":
                 System.out.println("La estacion es Primavera");

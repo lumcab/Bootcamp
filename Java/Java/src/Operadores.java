@@ -24,7 +24,8 @@ public class Operadores {
         }
 
         System.out.println("Ejemplo de Switch");
-        var dia = "domingo";
+        String dia;
+        dia = "domingo";
         switch (dia) {
             case "lunes":
                 System.out.println("Hoy se trabaja");
