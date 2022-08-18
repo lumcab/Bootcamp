@@ -48,3 +48,12 @@ match valor:
 #para corta algo si que tenga que cumplir usamos pass
 if 5 < 6:
     pass
+
+#agregar un enter al final de cada linea de una lista si no lo tiene
+def escribe (fichero,datos):
+    f = open(fichero, 'a')
+    for linea in datos :
+        if not linea.endswith (' \n '):
+                linea += '\n'
+        f.write (linea)
+    f.close ()
