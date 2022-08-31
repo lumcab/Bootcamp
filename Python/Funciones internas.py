@@ -43,7 +43,6 @@ def main():
     # Para hallar el valor minimo usamos min
     print(min(numeros))
 
-    
 
 
 if __name__ == '__main__':
