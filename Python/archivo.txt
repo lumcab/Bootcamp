@@ -1,0 +1,3 @@
+esta es la informacion
+que se guarda en el archivo
+que consta de tres elementos
