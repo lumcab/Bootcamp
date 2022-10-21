@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94a89225-0ea4-4338-bd06-ef01933231dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/GitHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/GitHub.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 1 T9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 1 T9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 2 T9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 2 T9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funciones internas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones internas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad8Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad8Ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad8Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad8Ejercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Usuario y contraseña.py" beforeDir="false" afterPath="$PROJECT_DIR$/Usuario y contraseña.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsuariosLinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/UsuariosLinux.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/archivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehiculos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vehiculos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +28,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/lumcab/Documentos/GitHub/Bootcamp/Python"
+    "last_opened_file_path": "C:/Users/lumcab/OneDrive/Documentos/GitHub/Bootcamp/Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Python.Calculadora">
