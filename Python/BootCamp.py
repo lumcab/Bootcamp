@@ -1,4 +1,5 @@
 # Informacion importante que he visto en el bootcamp
+#no olvidar estudiar diariamente
 
 lista=[1,2,3,'a']
 longitud=len(lista)
